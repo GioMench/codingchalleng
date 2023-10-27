@@ -1,0 +1,105 @@
+body{
+    background-image: url(background.jpg);   
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: Ubuntu, sans-serif;
+    font-size: small;
+    
+}
+
+div.container{
+    background: rgba(0, 0, 0, 0.5);
+    width: 800px;
+    height: 550px;
+    margin-left:20%;
+    border-radius: 3%;
+    margin-top: 6%;
+
+}
+
+ img{
+    margin-top: 70px;
+ }
+
+.logo{
+    width: 150px   
+
+}
+
+h2{
+    color: lime;
+    font-size:20px 
+}
+
+nav.intestazione{
+    text-align: center;
+    line-height: 1%;
+    
+}
+button{ 
+    font-size: x-small;
+
+}
+
+div.elenco{
+    margin-top: 20px;
+}
+
+nav.elenco{
+    line-height: 80%;
+    margin-left: 95px;
+
+}
+
+main{
+    background-color: lime;
+    width: 600px;
+    padding:8px;
+    margin-left:95px;
+   
+}
+span{
+    color: white;
+}
+
+.monopattini{
+    font-size: 15px;
+    color: white;
+    
+}
+
+.posizione{
+    font-size: smaller;
+
+}
+
+.info{
+    font-size: xx-small;
+    
+}
+
+#font{
+    font-size: 10px;
+}
+
+p#carica1{
+    width: 250px;
+    height: 20px;
+    background: #ff8800;
+    border-radius: 5px;
+}
+
+p#carica2{
+    width: 400px;
+    height: 20px;
+    background: greenyellow;
+    border-radius: 5px;
+}
+
+p#carica3{
+    width: 120px;
+    height: 20px;
+    background: red;
+    border-radius: 5px;
+}
+
